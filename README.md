@@ -1,5 +1,5 @@
 # cn.enaium.bb
-请转到 https://github.com/Enaium-Xposed/FuckMarket
+请转到 https://github.com/FuckAntiAddiction/BiligameBypass
 
 ## 功能
 * 到时间不被踢出
